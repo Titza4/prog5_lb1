@@ -10,3 +10,5 @@
 
 После этого мы запускаем файл, в котором содержится код.
 ![image](https://github.com/user-attachments/assets/713a84f1-b1ef-4bef-9eaa-8753a04f2ba4)
+![image](https://github.com/user-attachments/assets/2005593f-5ff1-4a41-a2c0-2944521b1d93)
+![image](https://github.com/user-attachments/assets/82211999-7fba-486a-b5e4-9150769e6540)
